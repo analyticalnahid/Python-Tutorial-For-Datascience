@@ -1,5 +1,5 @@
 # Python-Tutorial-For-Datascience
-Python tutorial beginner to advanced. Specifically design for Data Science
+Python tutorial beginner to advanced. Specifically design for Data Science and Machine Learning
 
 ## 1. Python Basic
 #### 1.1 Variables
